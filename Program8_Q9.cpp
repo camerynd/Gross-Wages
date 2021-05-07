@@ -1,10 +1,3 @@
-/*
-Program 8_Q9
-Duarte, Cameryn
-CSC119-142 Introduction to Programming C++ Spring 2021
-03/30/2021
-This program determines the gross wages of the given employees
-*/
 #include<iostream>
 #include<iomanip>
 using namespace std;
